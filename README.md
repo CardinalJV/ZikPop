@@ -17,7 +17,6 @@ ZikPop is a multiplayer music trivia game where a host creates a session for up 
 ## Screenshot
 
 <p align="center">
-
 <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/bd4de8ad-17e2-4f97-bb17-effece42ee9c" />
 <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/4bf80ad7-cb66-4915-89ff-379afbc6d800" />
 <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/1e4a5d08-0b99-4c5f-b549-f1a1d5272e04" />
@@ -26,5 +25,30 @@ ZikPop is a multiplayer music trivia game where a host creates a session for up 
 <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/885a562f-f885-4270-a939-ffddb3668c4b" />
 <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/e98b7ebb-b806-482e-a4f8-bfd60b1d876a" />
 <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/810c9c68-319f-40e1-af13-83199ccdd1c1" />
-
 </p>
+
+## Features
+
+- Host music trivia games for up to 8 players
+
+- Guess song titles and artists to score points
+
+- Apple Music integration via MusicKit
+
+- Local multiplayer using Multipeer Connectivity
+
+- Real-time leaderboard and score updates
+
+- Host-managed game sessions
+
+- SwiftUI-powered user experience
+
+- TipKit onboarding and in-app guidance
+
+## Technical details
+
+Langages : Swift
+Frameworks : SwiftUI / SwiftTesting
+SDK : PhotoKit / MusicKit / TipKit
+Architecture : MVVM
+Version iOS : iOS 26
