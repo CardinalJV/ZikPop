@@ -37,11 +37,11 @@ ZikPop is a multiplayer music trivia game where a host creates a session for up 
 
 ## Technical details
 
-Langages : Swift
-Frameworks : SwiftUI / SwiftTesting
-SDK : PhotoKit / MusicKit / TipKit
-Architecture : MVVM
-Version iOS : iOS 26
+- Languages : Swift
+- Frameworks : SwiftUI / SwiftTesting
+- SDK : PhotoKit / MusicKit / TipKit
+- Architecture : MVVM
+- Version iOS : iOS 26
 
 ## Screenshot
 
