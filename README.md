@@ -33,7 +33,7 @@ ZikPop is a multiplayer music trivia game where a host creates a session for up 
 
 - Host-managed game sessions
 
-- SwiftUI-powered user experience
+- SwiftUI with LiquidGlass powered user experience
 
 - TipKit onboarding and in-app guidance
 
