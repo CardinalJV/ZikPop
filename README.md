@@ -20,6 +20,10 @@ ZikPop is a multiplayer music trivia game where a host creates a session for up 
 ## Available
 
 <a href="https://testflight.apple.com/join/6WnPUyfR">Testflight</a>
+
+## Screenrecord
+
+https://github.com/user-attachments/assets/86c92b23-baf9-4907-9ae0-98ab0dc0c53b
   
 ## Features
 
