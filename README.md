@@ -16,6 +16,10 @@ Guess the song!
 
 ZikPop is a multiplayer music trivia game where a host creates a session for up to 8 players and selects the songs to guess. Identify the song title and artist as quickly as possible to earn points and climb the leaderboard. Built with SwiftUI, MusicKit, and Multipeer Connectivity, ZikPop delivers a fun and seamless local multiplayer experience.
 
+Why?
+
+I created ZikPop with the goal of learning how to use Multipeer Connectivity and exploring Apple’s MusicKit SDK. The project was inspired by a game that I spent countless hours playing with my friends.
+
 ## Available
 
 <a href="https://testflight.apple.com/join/6WnPUyfR">Testflight</a>
