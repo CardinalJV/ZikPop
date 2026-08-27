@@ -16,7 +16,7 @@
 # ZikPop
 
 <p align="center">
-  <img src="ZikPop-Icon.png" alt="Logo" width="137">
+  <img src="ZikPop-AppIcon-iOS-Default-1024%401x.png" alt="Logo" width="137">
 </p>
 
 Guess the song!
