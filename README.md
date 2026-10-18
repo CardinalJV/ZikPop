@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/86c92b23-baf9-4907-9ae0-98ab0dc0c53b
 
 - Apple Music integration via MusicKit
 
-- Local multiplayer using Multipeer Connectivity
+- Local multiplayer using Network Framework
 
 - Real-time leaderboard and score updates
 
