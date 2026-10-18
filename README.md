@@ -29,7 +29,7 @@ I created ZikPop with the goal of learning how to use Network Framework and expl
 
 ## Available
 
-<a href="https://testflight.apple.com/join/6WnPUyfR">Testflight</a>
+<a href="https://apps.apple.com/us/app/zikpop-guess-the-song/id6780282280">AppStore</a>
 
 ## Screenrecord
 
