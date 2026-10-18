@@ -25,7 +25,7 @@ ZikPop is a multiplayer music trivia game where a host creates a session for up 
 
 Why?
 
-I created ZikPop with the goal of learning how to use Multipeer Connectivity and exploring Apple’s MusicKit SDK. The project was inspired by a game that I spent countless hours playing with my friends.
+I created ZikPop with the goal of learning how to use Network Framework and exploring Apple’s MusicKit SDK. The project was inspired by a game that I spent countless hours playing with my friends.
 
 ## Available
 
